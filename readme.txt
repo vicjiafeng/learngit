@@ -1,5 +1,4 @@
 Git is a distributed version control system.
 Git is free bitch software.
-sanmine is fucking company.
-fucking boss
-
+I study python and git by my self.
+Try hard every single day!
